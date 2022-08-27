@@ -1,6 +1,7 @@
 안녕하세요 저는 신입 안드로이드 개발자 이건희 입니다.  
 1일 1커밋을 목표로 꾸준히 공부하고 있고  
 오늘보다 더 나은 개발자, 꾸준히 발전하는 개발자가 되고싶습니다.  
+  
 [blog](https://hegunhee.tistory.com)  
 [project](https://github.com/hegunhee/NewSimpleMemoApp)  
 [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)  
