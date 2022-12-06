@@ -3,7 +3,7 @@
 오늘보다 더 나은 개발자, 꾸준히 발전하는 개발자가 되고싶습니다.  
   
 [blog](https://hegunhee.tistory.com)  
-[project](https://github.com/hegunhee/NewSimpleMemoApp)  
+[project](https://github.com/hegunhee/Routiner)  
 [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)  
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leech9876)](https://solved.ac/leech9876)  
