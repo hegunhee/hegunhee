@@ -4,7 +4,7 @@
   
 [blog](https://hegunhee.tistory.com)  
 [project](https://github.com/hegunhee/Routiner)  
-[notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)  
+[resume](https://docs.google.com/document/d/1KmhhxL55-WqcX0RsZCHypMOWGgNczFRgVJlx0UdfGAE/edit?usp=sharing)  
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leech9876)](https://solved.ac/leech9876)  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
