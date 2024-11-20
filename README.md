@@ -3,8 +3,7 @@
 매일매일 배우며 잘하는 개발자가 되고싶습니다.  
   
 [blog](https://hegunhee.tistory.com)  
-[project](https://github.com/hegunhee/Routiner)  
-[resume](https://docs.google.com/document/d/1KmhhxL55-WqcX0RsZCHypMOWGgNczFRgVJlx0UdfGAE/edit?usp=sharing)  
+[resume](https://docs.google.com/document/d/16RcojnTAnuFSf4GWwT3YDmqYmDt6EFAWVFlOqQLHUX0/edit?usp=sharing)  
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leech9876)](https://solved.ac/leech9876)  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
