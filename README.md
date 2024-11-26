@@ -5,7 +5,7 @@
 ## 저는 다음과 같은 것들을 좋아합니다.
 - 주기적으로 리팩토링하는것을 좋아합니다.
 - 배운 기술을 딥다이빙하고 블로그에 정리하는 것을 좋아합니다.
-- 문서 하는 것을 좋아하며 이해하기 쉬운 글을 작성하려 합니다.
+- 문서화 하는 것을 좋아하며 이해하기 쉬운 글을 작성하려 합니다.
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leech9876)](https://solved.ac/leech9876)  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
