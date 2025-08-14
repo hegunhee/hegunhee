@@ -1,25 +1,34 @@
 ## 안녕하세요 저는 내일을 준비하는 개발자 이건희입니다.  
-안녕하세요 저는 내일을 준비하는 안드로이드 개발자 이건희입니다.  
-저는 새로운 기술을 배우는 것을 즐기고, 이를 프로젝트 상황에 맞게 적절히 적용하는 것을 중요하게 생각합니다.  
-기술은 맥락에 맞게 선택되어야 한다는 점, 그 균형을 잡을 줄 아는 개발자가 되기 위해 항상 고민하고 있습니다.
+- 안녕하세요 저는 내일을 준비하는 안드로이드 개발자 이건희입니다.  
+- 저는 새로운 기술을 배우는 것을 즐기고, 이를 프로젝트 상황에 맞게 적절히 적용하는 것을 중요하게 생각합니다.  
+- 기술은 맥락에 맞게 선택되어야 한다는 점, 그 균형을 잡을 줄 아는 개발자가 되기 위해 항상 고민하고 있습니다.
 
 ## 저는 다음과 같은 것들을 좋아합니다.
 - 주기적으로 리팩터링하는것을 좋아합니다.
   - [리팩터링 한 것들 정리](https://github.com/hegunhee/Resume/issues/1)
 - 배운 기술을 딥다이빙하고 블로그에 정리하는 것을 좋아합니다.
 - 문서화 하는 것을 좋아하며 이해하기 쉬운 글을 작성하려 합니다.
+- 처음과 마무리까지 책임지는 완성도를 지향합니다.
 
 ### Education & Experience
 [김은호의 백엔드 실무 로드맵 : Spring Boot 포트폴리오 5주 완성 강의](https://github.com/hegunhee/fastcampus-project-board)   
 
-## Projects  
-- Android - [Seeday](https://github.com/Record-Management/Android) : 하루를 기록하며 씨앗을 심는 앱(~ing)<br><br>
 
-- Android - [청년톡톡](https://github.com/youth-talk-talk/Android) : 한눈에 보는 청년정책, 청년정책 정보 제공 앱<br><br>
+## Projects  
+- Android - [Seeday](https://github.com/Record-Management/Android) : 하루를 기록하며 씨앗을 심는 앱(~ing)
+<br/>
+
+- Android - [청년톡톡](https://github.com/youth-talk-talk/Android) : 한눈에 보는 청년정책, 청년정책 정보 제공 앱
+
+<br>
 
 - Android - [NowInJururu](https://github.com/hegunhee/NowInJururu) : 인터넷 방송 스트리머 정보 탐색 앱
 - Android - [루티너](https://github.com/hegunhee/Routiner) : 습관을 등록하고 습관에 대한 리뷰 등록 앱
-- Android = [MapleFinder](https://github.com/hegunhee/MapleFinder) : 게임 메이플스토리 캐릭터 정보 조회 앱
+- Android - [MapleFinder](https://github.com/hegunhee/MapleFinder) : 게임 메이플스토리 캐릭터 정보 조회 앱
+
+## Studies
+- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview)
+- DB - [Real-MySQL8.0](https://github.com/TILBookStudy/Real-Mysql8.0-Study)
 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leech9876)](https://solved.ac/leech9876)  
