@@ -27,7 +27,8 @@
 - Android - [MapleFinder](https://github.com/hegunhee/MapleFinder) : 게임 메이플스토리 캐릭터 정보 조회 앱
 
 ## Studies
-- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview)
+- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview) (~ing)
+- Android - [안드로이드 면접 스터디](https://github.com/AndroidStudy2024/03)
 - DB - [Real-MySQL8.0](https://github.com/TILBookStudy/Real-Mysql8.0-Study)
 
   
