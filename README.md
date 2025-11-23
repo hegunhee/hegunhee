@@ -22,12 +22,13 @@
 
 <br>
 
+- Android(Flutter/Dart) - [쓰는가계부](https://github.com/hegunhee/Expense-Diary) : 감정까지 기록하는 나만의 감정 가계부 (~ing)
 - Android - [NowInJururu](https://github.com/hegunhee/NowInJururu) : 인터넷 방송 스트리머 정보 탐색 앱
 - Android - [루티너](https://github.com/hegunhee/Routiner) : 습관을 등록하고 습관에 대한 리뷰 등록 앱
 - Android - [MapleFinder](https://github.com/hegunhee/MapleFinder) : 게임 메이플스토리 캐릭터 정보 조회 앱
 
 ## Studies
-- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview) (~ing)
+- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview) 
 - Android - [안드로이드 면접 스터디](https://github.com/AndroidStudy2024/03)
 - DB - [Real-MySQL8.0](https://github.com/TILBookStudy/Real-Mysql8.0-Study)
 
