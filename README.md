@@ -15,10 +15,10 @@
 
 
 ## Projects  
-- Android - [Seeday](https://github.com/Record-Management/Android) : 하루를 기록하며 씨앗을 심는 앱(~ing)
+- Android - [Seeday](https://github.com/Record-Management/Android) : 하루를 기록하며 씨앗을 심는 앱(~ing) [앱링크](https://play.google.com/store/apps/details?id=see.day.app)
 <br/>
 
-- Android - [청년톡톡](https://github.com/youth-talk-talk/Android) : 한눈에 보는 청년정책, 청년정책 정보 제공 앱
+- Android - [청년톡톡](https://github.com/youth-talk-talk/Android) : 한눈에 보는 청년정책, 청년정책 정보 제공 앱 [앱링크](https://play.google.com/store/apps/details?id=com.youth.yongproject.app)
 
 <br>
 
