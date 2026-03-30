@@ -22,7 +22,7 @@
 
 <br>
 
-- Android(Flutter/Dart) - [마음가계부](https://github.com/hegunhee/Expense-Diary) : 감정까지 기록하는 나만의 감정 가계부 (~ing) [앱링크](https://play.google.com/store/apps/details?id=blueberry.gunhee.expensediary)
+- Android&iOS(Flutter/Dart) - [마음가계부](https://github.com/hegunhee/Expense-Diary) : 감정까지 기록하는 나만의 감정 가계부 (~ing) [플레이스토어 링크](https://play.google.com/store/apps/details?id=blueberry.gunhee.expensediary)  [앱스토어 링크](https://play.google.com/store/apps/details?id=blueberry.gunhee.expensediary&hl=ko)
 - Android - [NowInJururu](https://github.com/hegunhee/NowInJururu) : 인터넷 방송 스트리머 정보 탐색 앱
 - Android - [루티너](https://github.com/hegunhee/Routiner) : 습관을 등록하고 습관에 대한 리뷰 등록 앱
 - Android - [MapleFinder](https://github.com/hegunhee/MapleFinder) : 게임 메이플스토리 캐릭터 정보 조회 앱
