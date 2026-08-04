@@ -13,10 +13,8 @@
 
 - Android&iOS(Flutter/Dart) - [마음가계부](https://github.com/hegunhee/Expense-Diary) : 감정까지 기록하는 나만의 감정 가계부 (~ing) [플레이스토어 링크](https://play.google.com/store/apps/details?id=blueberry.gunhee.expensediary)  [앱스토어 링크](https://play.google.com/store/apps/details?id=blueberry.gunhee.expensediary&hl=ko)
 ## Studies
-- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview) 
+- Android - [Manifest-Android-Interview](https://github.com/hegunhee/Study-Manifest-Android-Interview)
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
